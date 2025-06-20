@@ -1,13 +1,35 @@
 {
+<<<<<<< HEAD
+  "name": "backend-prac",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+=======
   "name": "server",
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
     "text": "echo \"Error: no test specified\" && exit 1"
+>>>>>>> 0b98137e4ccd9906d8f84110443d8781d7650105
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+<<<<<<< HEAD
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "bcryptjs": "^3.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.15.2",
+    "nodemon": "^3.1.10"
+  }
+=======
   "dependencies": {
     "bcrypt": "^6.0.0",
     "cors": "^2.8.5",
@@ -18,4 +40,5 @@
 
   }
  
+>>>>>>> 0b98137e4ccd9906d8f84110443d8781d7650105
 }
